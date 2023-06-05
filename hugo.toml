@@ -1,0 +1,7 @@
+baseURL = 'baseURL = 'https://charl-potgieter.github.io/TestHugoSiteFour/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'hugo-book'
+
+[markup.goldmark.renderer]
+  unsafe = true
